@@ -1,0 +1,41 @@
+.general{
+    display: block;
+    margin: 1rem;
+    border: 2px solid rgb(144, 224, 114);
+    background-color: rgb(210, 235, 219);
+    line-height:2;
+    padding: 2rem;
+    border-radius: 10px;
+    color: rgb(8, 26, 2);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.general .info{
+    text-transform: uppercase;
+    text-align: center;
+    line-height:1;
+    
+   
+
+}
+.general h1{
+    font-size: 30px;
+    text-transform: uppercase;
+   
+}
+.general .pd{
+    line-height: .5;
+}
+.general p{
+    font-size: 20px;
+}
+.general span.date{
+    float:right;
+    padding:10px;
+}
+.general .info h1{
+    font-size: 40px;
+}
+    
+   
+
